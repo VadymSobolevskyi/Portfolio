@@ -1,0 +1,14 @@
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\bin\Debug\net8.0\OllamaAssistant.exe
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\bin\Debug\net8.0\OllamaAssistant.deps.json
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\bin\Debug\net8.0\OllamaAssistant.runtimeconfig.json
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\bin\Debug\net8.0\OllamaAssistant.dll
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\bin\Debug\net8.0\OllamaAssistant.pdb
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.AssemblyInfoInputs.cache
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.AssemblyInfo.cs
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.dll
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\refint\OllamaAssistant.dll
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.pdb
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\OllamaAssistant.genruntimeconfig.cache
+C:\Users\Vadym\Desktop\New_project\OllamaAssistant\obj\Debug\net8.0\ref\OllamaAssistant.dll

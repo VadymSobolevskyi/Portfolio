@@ -1,0 +1,14 @@
+C:\Users\Vadym\Projects\OllamaPhi3App\bin\Debug\net9.0\OllamaPhi3App.exe
+C:\Users\Vadym\Projects\OllamaPhi3App\bin\Debug\net9.0\OllamaPhi3App.deps.json
+C:\Users\Vadym\Projects\OllamaPhi3App\bin\Debug\net9.0\OllamaPhi3App.runtimeconfig.json
+C:\Users\Vadym\Projects\OllamaPhi3App\bin\Debug\net9.0\OllamaPhi3App.dll
+C:\Users\Vadym\Projects\OllamaPhi3App\bin\Debug\net9.0\OllamaPhi3App.pdb
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.AssemblyInfoInputs.cache
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.AssemblyInfo.cs
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.dll
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\refint\OllamaPhi3App.dll
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.pdb
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\OllamaPhi3App.genruntimeconfig.cache
+C:\Users\Vadym\Projects\OllamaPhi3App\obj\Debug\net9.0\ref\OllamaPhi3App.dll

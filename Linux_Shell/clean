@@ -1,0 +1,7 @@
+# TASK
+#• In a file called "clean" place the command line that will search for all files - in the
+#current directory as well as in its sub-directories - with a name ending by ~, or with
+#a name that start and end by #
+#• The command line will show and erase all files found.
+
+find . -type f \( -name '*~' -o -name '#*#' \) -print -delete

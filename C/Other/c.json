@@ -1,0 +1,66 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   c.json                                    :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: Vadym Sobolevskyi                          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/09/24 15:34:58 by vs                 #+#    #+#            */
+/*   Updated: 2026/09/24 15:35:03 by vs                 ###   #########       */
+/*                                                                            */
+/* ************************************************************************** */
+
+/*
+1. MANUAL HEADER
+
+c
+/*******************************************************************************
+ * @file        main.c
+ * @author      Your Name
+ * @date        October 14, 2026
+ * @brief       Short description of what this C file does.
+ *******************************************************************************/
+#include <stdio.h>
+
+int main() {
+    // Your code here
+    return 0;
+}
+*/
+
+/*
+2. HEADER VS Code SNIPPET SCRIPT 
+
+You can create a custom snippet that automatically fills in your name and inserts the exact date dynamically [1].
+1. Go to File > Preferences > Configure User Snippets (or Ctrl+Shift+P / Cmd+Shift+P and type User Snippets).
+2. Select c (for C files).
+3. Paste the following snippet configuration inside the JSON braces:
+
+
+
+{
+
+	"C File Header": {
+    "prefix": "doc-header",
+    "body": [
+        "/*******************************************************************************",
+        " * @file        ${TM_FILENAME}",
+        " * @author      VS",
+        " * @date        ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+        " * @brief       ${1:Description of the file}",
+        " *******************************************************************************/",
+        "$0"
+    ],
+    "description": "Inserts a standard file header comment with name and current date"
+}
+
+• How to use it: Open a .c file, type doc-header, and hit Tab or Enter. VS Code will automatically generate the block, pull the exact current filename, and stamp today's date (2026-10-14).
+*/
+
+/*
+3. Using VS Code Extensions
+
+If you prefer a pre-built tool, you can install extensions like turbiger.comment-helper or vscode-fileheader. They generate customizable headers automatically every time you create a new file.
+Are you trying to set this up for a specific editor or IDE (like VS Code, CLion, or Vim), or do you need a command-line script to auto-generate files with headers?
+*/
+
