@@ -1,1 +1,0 @@
-# AI_assistant_Ollama_C
